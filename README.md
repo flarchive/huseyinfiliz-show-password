@@ -1,27 +1,23 @@
 # huseyinfiliz/show-password (Archive)
 
-This repository is a permanent, read-only archive of released versions of `huseyinfiliz/show-password`, preserved by [Flarchive](https://github.com/flarchive/archive-index).
+> **Read-only archive of released versions of huseyinfiliz/show-password.** Not for installation: use [Packagist](https://packagist.org/packages/huseyinfiliz/show-password) or the [upstream repository](https://github.com/huseyinfiliz/show-password).
 
-> **ARCHIVE NOTICE:** This repository is a permanent, read-only historical archive. It is strictly for preservation, historical audit, and recovery. **Do not install extensions from this archive.** For active forum installations, always use the official package releases on Packagist and the original author's repository.
+**2** versions archived · Latest: [`2.0.0-beta.1`](https://github.com/flarchive/huseyinfiliz-show-password/tree/archive/v2.0.0-beta.1) (stable: [`1.0.0`](https://github.com/flarchive/huseyinfiliz-show-password/tree/archive/v1.0.0)) · License: `MIT` · Flarum: `^2.0.0-beta`
 
-> **Not affiliated with the Flarum Foundation or the Flarum project.**
+## Archived Versions
 
-## Archive Status
+| Version | Released | Flarum | Source |
+|---|---|---|---|
+| `2.0.0-beta.1` | 2026-03-12 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/huseyinfiliz-show-password/tree/archive/v2.0.0-beta.1) |
+| `1.0.0` | 2026-03-12 | `^1.8.0` | [Browse](https://github.com/flarchive/huseyinfiliz-show-password/tree/archive/v1.0.0) |
 
-- **Latest Archived Release:** `2.0.0-beta.1`
-- **Target Flarum Compatibility:** `^2.0.0-beta`
-- **Declared License:** `MIT`
-- **Upstream Repository:** https://github.com/huseyinfiliz/show-password.git
-- **All Archived Tags:** [View Tags](https://github.com/flarchive/huseyinfiliz-show-password/tags)
+Catalog entry: [packages/huseyinfiliz-show-password.json](https://github.com/flarchive/archive-index/blob/main/packages/huseyinfiliz-show-password.json)
 
-*Archived source trees are preserved byte-for-byte as immutable tags under `refs/tags/archive/*`. The `main` branch contains only this archive notice.*
+## About this archive
 
-## Archive Catalog
-
-- **Catalog Entry (JSON):** [View manifest](https://github.com/flarchive/archive-index/blob/main/packages/huseyinfiliz-show-password.json)
-- Upstream repository: https://github.com/huseyinfiliz/show-password.git
-- Issues, pull requests, discussions, and wiki are disabled on this repository.
-
-See the Archive Index for policy, disclaimer, and takedown procedures:
-- [POLICY.md](https://github.com/flarchive/archive-index/blob/main/POLICY.md)
-- [DISCLAIMER.md](https://github.com/flarchive/archive-index/blob/main/DISCLAIMER.md)
+- **Immutability:** Archive versions are stored as protected tags and cannot be modified or overwritten.
+- **Main branch:** The `main` branch contains only this archive notice; source code is stored within each respective version tag.
+- **License:** The original license and copyright notices are preserved inside each archived version.
+- **As-is:** Archived code is provided as-is, without warranty of any kind. The archive does not maintain, test, or verify the safety of archived extensions, and is not responsible for broken, unmaintained, or insecure code.
+- **Independence:** This archive is an independent project and is not affiliated with, endorsed by, or sponsored by the Flarum Foundation or the Flarum project.
+- **Policies:** See [POLICY.md](https://github.com/flarchive/archive-index/blob/main/POLICY.md) and [DISCLAIMER.md](https://github.com/flarchive/archive-index/blob/main/DISCLAIMER.md) for takedown and exclusion procedures.
